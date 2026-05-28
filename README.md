@@ -66,7 +66,7 @@ AI 모델의 성능을 높이는 것뿐 아니라,
 
 ## 🔗 Links
 
-- **Email:** `kimcjsdml@gmail.com`
+- **Email:** kimcjsdml@gmail.com
 
 ---
 
