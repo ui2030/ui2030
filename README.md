@@ -64,15 +64,18 @@ AI 모델의 성능을 높이는 것뿐 아니라,
 
 ---
 
+## 📚 Research & Writing
+
+- [학부 졸업 연구 보고서](https://app.notion.com/p/273f1992f565800a834aede68de2ab1a)
+  - 대학 졸업 전 작성한 학교 연구 보고서입니다.
+  - 정식 학회 게재 논문은 아니지만, 주제 선정과 분석 과정을 문서화한 경험입니다.
+
+---
+
 ## 🔗 Links
 
 - **Email:** kimcjsdml@gmail.com
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub
-
-![GitHub followers](https://img.shields.io/github/followers/ui2030?style=flat-square&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/ui2030?style=flat-square&logo=github)
